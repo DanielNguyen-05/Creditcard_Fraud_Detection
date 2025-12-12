@@ -245,6 +245,8 @@ We analyzed transaction density by hour of day.
 
 > **💡 Insight:** Fraudsters are "shy". The vast majority of fraud transactions are **under $500** and almost never exceed $2,100. They avoid large amounts to bypass automated bank blocks.
 
+![Amount Analysis](assets/amount_analysis.png)
+
 #### **D. 🔍 Feature Correlation & Clustering**
 
 We visualized the anonymous features (V1-V28).
